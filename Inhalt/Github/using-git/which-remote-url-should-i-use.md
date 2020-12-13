@@ -66,4 +66,4 @@ You can also access repositories on {% data variables.product.prodname_dotcom %}
 
 ### Further reading
 
-- [Working with Remotes](https://git-scm.com/book/en/Git-Basics-Working-with-Remotes) from the _Pro Git_ book site
+- [Working with Remotes](h19Xolgorim76+from the _Pro Git_ book site
